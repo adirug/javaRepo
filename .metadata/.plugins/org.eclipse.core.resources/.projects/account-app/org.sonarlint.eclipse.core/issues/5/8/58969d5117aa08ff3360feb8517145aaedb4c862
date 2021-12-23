@@ -1,0 +1,26 @@
+
+d	java:S106."9Replace this use of System.out or System.err by a logger.(¡ÕH¾RMAJORZ
+CODE_SMELL
+d	java:S106#"9Replace this use of System.out or System.err by a logger.(´áÊ™H¿RMAJORZ
+CODE_SMELL
+i	java:S106-"9Replace this use of System.out or System.err by a logger.(è’ÿ½úÿÿÿÿHÀRMAJORZ
+CODE_SMELL
+i	java:S106/"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿHÁRMAJORZ
+CODE_SMELL
+b
+java:S1128"1Remove this unused import 'java.io.Serializable'.(èãîÂÿÿÿÿÿHÂRMINORZ
+CODE_SMELL
+u
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ÙíİHÃRBLOCKERZBUG
+v
+java:S2095 "OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(˜ÊƒüHÄRBLOCKERZBUG
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ëàğÔüÿÿÿÿHÅRMAJORZ
+CODE_SMELL
+i	java:S106""9Replace this use of System.out or System.err by a logger.(Âÿä§üÿÿÿÿHÆRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿHÇRMAJORZ
+CODE_SMELL
+w
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ºıõHÈRBLOCKERZBUG
+d	java:S106,"9Replace this use of System.out or System.err by a logger.(œÀ¨·HÉRMAJORZ
+CODE_SMELL

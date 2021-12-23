@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: com.monocept.test.TodosDetailsTest
+
+Name: com/monocept/test/
+Sealed: false
+

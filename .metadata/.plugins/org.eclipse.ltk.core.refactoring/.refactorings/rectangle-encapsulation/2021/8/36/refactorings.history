@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;com.monocept.model.Rectangle.check(...)&apos; to &apos;checkValue&apos;&#x0D;&#x0A;- Original project: &apos;rectangle-encapsulation&apos;&#x0D;&#x0A;- Original element: &apos;com.monocept.model.Rectangle.check(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;com.monocept.model.Rectangle.checkValue(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;check&apos;" flags="589826" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;com.monocept.model{Rectangle.java[Rectangle~check~I" name="checkValue" references="true" stamp="1630393519599" version="1.0"/>
+</session>

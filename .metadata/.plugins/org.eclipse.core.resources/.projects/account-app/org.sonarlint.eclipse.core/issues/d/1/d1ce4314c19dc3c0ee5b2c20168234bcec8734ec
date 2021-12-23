@@ -1,0 +1,10 @@
+
+{
+java:S1192"GDefine a constant instead of duplicating this literal "Aditya" 4 times.(õÿÈÐýÿÿÿÿHéRCRITICALZ
+CODE_SMELL
+~	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¨Ö–ÿÿÿÿÿHîRMINORZ
+CODE_SMELL
+~	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Î¤œÿÿÿÿÿHïRMINORZ
+CODE_SMELL
+y	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö„û˜HðRMINORZ
+CODE_SMELL

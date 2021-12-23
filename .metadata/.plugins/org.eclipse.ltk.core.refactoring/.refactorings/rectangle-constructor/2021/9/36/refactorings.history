@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;rectangle&apos; in &apos;com.monocept.test.RectangleColorTest.printInfo(...)&apos; to &apos;r1&apos;&#x0D;&#x0A;- Original project: &apos;rectangle-constructor&apos;&#x0D;&#x0A;- Original element: &apos;com.monocept.test.RectangleColorTest.printInfo(Rectangle).rectangle&apos;&#x0D;&#x0A;- Renamed element: &apos;rectangle&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;rectangle&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.monocept.test{RectangleColorTest.java[RectangleColorTest~printInfo~QRectangle;@rectangle!344!362!354!362!QRectangle;!0!true" name="r1" references="true" stamp="1630569495769" version="1.0"/>
+</session>

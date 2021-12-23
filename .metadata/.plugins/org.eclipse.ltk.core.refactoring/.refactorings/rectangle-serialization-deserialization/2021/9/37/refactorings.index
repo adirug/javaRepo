@@ -1,0 +1,8 @@
+1631122406688	Encapsulate field 'width'
+1631122423835	Encapsulate field 'height'
+1631123520370	Delete element
+1631123531433	Rename type 'RectangleTest'
+1631127029843	Rename local variable 'objectOutputStream'
+1631127057675	Rename local variable 'ob'
+1631127102963	Rename local variable 'objectInputStream'
+1631127515045	Rename local variable 'out'

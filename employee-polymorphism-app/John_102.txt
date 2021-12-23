@@ -1,0 +1,3 @@
+Name of Employee - John
+Id of Employee - 102
+Salery of Employee - 1996920.0

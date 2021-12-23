@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;value&apos; in &apos;com.monocept.test.OverloadTest.printInfo(...)&apos; to &apos;name&apos;&#x0D;&#x0A;- Original project: &apos;overloading-app&apos;&#x0D;&#x0A;- Original element: &apos;com.monocept.test.OverloadTest.printInfo(String).value&apos;&#x0D;&#x0A;- Renamed element: &apos;value&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;value&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.monocept.test{OverloadTest.java[OverloadTest~printInfo~QString;@value!164!175!171!175!QString;!0!true" name="name" references="true" stamp="1629703979176" version="1.0"/>
+</session>

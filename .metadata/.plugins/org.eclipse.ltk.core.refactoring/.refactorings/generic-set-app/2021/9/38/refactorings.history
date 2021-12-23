@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;names&apos; in &apos;com.monocept.model.test.HashSetTest.caseStudy1()&apos; to &apos;numbers&apos;&#x0D;&#x0A;- Original project: &apos;generic-set-app&apos;&#x0D;&#x0A;- Original element: &apos;com.monocept.model.test.HashSetTest.caseStudy1().names&apos;&#x0D;&#x0A;- Renamed element: &apos;names&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;names&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.monocept.model.test{HashSetTest.java[HashSetTest~caseStudy1@names!210!227!222!226!QSet\&lt;QString;&gt;;!0!false" name="numbers" references="true" stamp="1631862332197" version="1.0"/>
+</session>

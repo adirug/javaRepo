@@ -1,0 +1,3 @@
+Name of Employee - Jack
+Id of Employee - 103
+Salery of Employee - 1512900.0
